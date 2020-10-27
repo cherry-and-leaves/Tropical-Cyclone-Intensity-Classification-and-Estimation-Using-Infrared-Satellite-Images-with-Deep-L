@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9669f4bc-75ac-40b8-9b5f-2dbf1763bdb4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LQ$train_net_WXJ_YL.coverage" NAME="train_net_WXJ_YL Coverage Results" MODIFIED="1581343725253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_res_1.coverage" NAME="train_net_res_1 Coverage Results" MODIFIED="1580129761018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_2.coverage" NAME="train_net_2 Coverage Results" MODIFIED="1582015312015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$define_net_WXJ.coverage" NAME="define_net_WXJ Coverage Results" MODIFIED="1579523164361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$xiugaidaxiao.coverage" NAME="xiugaidaxiao Coverage Results" MODIFIED="1581237389356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$pytest_in_train_net_py.coverage" NAME="pytest in train_net.py Coverage Results" MODIFIED="1577188531514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$WXJ_train_net.coverage" NAME="WXJ_train_net Coverage Results" MODIFIED="1577887631782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$random_select.coverage" NAME="random_select Coverage Results" MODIFIED="1602771750214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$evaluation_index.coverage" NAME="evaluation_index Coverage Results" MODIFIED="1577355670064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$test_net.coverage" NAME="test_net Coverage Results" MODIFIED="1579571951358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$evaluation_index_move.coverage" NAME="evaluation_index_move Coverage Results" MODIFIED="1580189955027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net.coverage" NAME="train_net Coverage Results" MODIFIED="1581831991849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$plotbox.coverage" NAME="plotbox Coverage Results" MODIFIED="1579416910178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$xiugaidaxiao__1_.coverage" NAME="xiugaidaxiao (1) Coverage Results" MODIFIED="1577933289209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$Sandiantu.coverage" NAME="Sandiantu Coverage Results" MODIFIED="1579162094848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$typhoon_img.coverage" NAME="typhoon_img Coverage Results" MODIFIED="1580284989073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$error_percent_1830.coverage" NAME="error_percent_1830 Coverage Results" MODIFIED="1579419658847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$plotbox_1830.coverage" NAME="plotbox_1830 Coverage Results" MODIFIED="1579421069184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$PreWind_smooth.coverage" NAME="PreWind_smooth Coverage Results" MODIFIED="1579593964375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$PreWind_smooth_QJ.coverage" NAME="PreWind_smooth_QJ Coverage Results" MODIFIED="1579599471221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$sameif.coverage" NAME="sameif Coverage Results" MODIFIED="1579320374494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$produce_label.coverage" NAME="produce_label Coverage Results" MODIFIED="1578557443933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$xiugaidaxiao_resize_crop.coverage" NAME="xiugaidaxiao_resize_crop Coverage Results" MODIFIED="1603625690164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$error_percent.coverage" NAME="error_percent Coverage Results" MODIFIED="1579419848539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_0.coverage" NAME="train_net_0 Coverage Results" MODIFIED="1581151730188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_res_2.coverage" NAME="train_net_res_2 Coverage Results" MODIFIED="1580129794383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$evaluation_index_notensor.coverage" NAME="evaluation_index_notensor Coverage Results" MODIFIED="1580633362064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$JPG_Class_Select.coverage" NAME="JPG_Class_Select Coverage Results" MODIFIED="1581237985937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_VGG19.coverage" NAME="train_net_VGG19 Coverage Results" MODIFIED="1602135243396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_1.coverage" NAME="train_net_1 Coverage Results" MODIFIED="1581389396628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_net_res_0.coverage" NAME="train_net_res_0 Coverage Results" MODIFIED="1580629509213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$confusion1.coverage" NAME="confusion1 Coverage Results" MODIFIED="1579614297289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$TY2_Location_excel_Kanun.coverage" NAME="TY2_Location_excel_Kanun Coverage Results" MODIFIED="1602931832552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Xue/DW/Location" />
+    <SUITE FILE_PATH="coverage/LQ$rotate_PIL.coverage" NAME="rotate_PIL Coverage Results" MODIFIED="1581599353377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LQ$train_Deep_PHURE.coverage" NAME="train_Deep_PHURE Coverage Results" MODIFIED="1602238229964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="train_net_VGG19.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_net_VGG19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="define_net_WXJ.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/define_net_WXJ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/conv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7920">
+              <caret line="269" column="8" selection-start-line="269" selection-start-column="8" selection-end-line="269" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pooling.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/pooling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3750">
+              <caret line="130" column="54" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_Deep_PHURE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_Deep_PHURE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#764#1519#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreWind_smooth.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PreWind_smooth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiugaidaxiao_resize_crop.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiugaidaxiao_resize_crop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random_select.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/random_select.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pytest</find>
+      <find>testset</find>
+      <find>DataLoader</find>
+      <find>utils.data.DataLoader</find>
+      <find>loader</find>
+      <find>settings</find>
+      <find>transform</find>
+      <find>model_path</find>
+      <find>F</find>
+      <find>rmse</find>
+      <find>count</find>
+      <find>outputs</find>
+      <find>all_loss</find>
+      <find>Bias</find>
+      <find>wind_real_list</find>
+      <find>tys_time</find>
+      <find>line</find>
+      <find>expansion</find>
+      <find>criterion</find>
+      <find>tys</find>
+      <find>totalloss</find>
+      <find>modelpath</find>
+      <find>in_fc_size</find>
+      <find>out_class</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>all_mse</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/network/InceptionResnetv2.py" />
+        <option value="$PROJECT_DIR$/evaluation_index.py" />
+        <option value="$PROJECT_DIR$/define_net.py" />
+        <option value="$PROJECT_DIR$/../../pytorch_hand_classifier-master/xiugaidaxiao.py" />
+        <option value="$PROJECT_DIR$/my_image_folder.py" />
+        <option value="$PROJECT_DIR$/xiugaidaxiao.py" />
+        <option value="$PROJECT_DIR$/produce_label.py" />
+        <option value="$PROJECT_DIR$/Sandiantu.py" />
+        <option value="$PROJECT_DIR$/sameif.py" />
+        <option value="$PROJECT_DIR$/plotbox.py" />
+        <option value="$PROJECT_DIR$/error_percent.py" />
+        <option value="$PROJECT_DIR$/plotbox_1830.py" />
+        <option value="$PROJECT_DIR$/test_net.py" />
+        <option value="$PROJECT_DIR$/PreWind_smooth_QJ.py" />
+        <option value="$PROJECT_DIR$/error_percent_1830.py" />
+        <option value="$PROJECT_DIR$/confusion1.py" />
+        <option value="$PROJECT_DIR$/WXJ_train_net.py" />
+        <option value="$PROJECT_DIR$/train_net_1.py" />
+        <option value="$PROJECT_DIR$/train_net_res_1.py" />
+        <option value="$PROJECT_DIR$/train_net_res_2.py" />
+        <option value="$PROJECT_DIR$/evaluation_index_move.py" />
+        <option value="$PROJECT_DIR$/network/resnet.py" />
+        <option value="$PROJECT_DIR$/train_net_res_0.py" />
+        <option value="$PROJECT_DIR$/PreWind_smooth.py" />
+        <option value="$PROJECT_DIR$/Data_calculate.py" />
+        <option value="$PROJECT_DIR$/typhoon_img.py" />
+        <option value="$PROJECT_DIR$/evaluation_index_notensor.py" />
+        <option value="$PROJECT_DIR$/my_transform.py" />
+        <option value="$PROJECT_DIR$/train_net_WXJ_YL.py" />
+        <option value="$PROJECT_DIR$/rotate_PIL.py" />
+        <option value="$PROJECT_DIR$/JPG_Class_Select.py" />
+        <option value="$PROJECT_DIR$/train_net.py" />
+        <option value="$PROJECT_DIR$/train_net_2.py" />
+        <option value="$PROJECT_DIR$/network/__init__.py" />
+        <option value="$PROJECT_DIR$/my_transform_3.py" />
+        <option value="$PROJECT_DIR$/network/vgg19.py" />
+        <option value="$PROJECT_DIR$/train_net_VGG19.py" />
+        <option value="$PROJECT_DIR$/define_net_WXJ.py" />
+        <option value="$PROJECT_DIR$/train_Deep_PHURE.py" />
+        <option value="$PROJECT_DIR$/random_select.py" />
+        <option value="$PROJECT_DIR$/xiugaidaxiao_resize_crop.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="370" />
+    <option name="y" value="305" />
+    <option name="width" value="3245" />
+    <option name="height" value="1700" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (why_pre_cnn) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (why_pre_cnn) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="whypytorch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (why_pre_cnn) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="whypytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (why_pre_cnn) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="whypytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (why_pre_cnn) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="whypytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="torch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (why_pre_cnn) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="whypytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="torch" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="LQ" type="cbb8eebc:String" user="LQ" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="LQ" type="cbb8eebc:String" user="LQ" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deep-Phurie-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1WXJ\Estimate\LQ" />
+      <recent name="D:\1WXJ\Estimate\LQ\network" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.xiugaidaxiao_resize_crop">
+    <configuration name="TY2_Location_excel_Kanun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LQ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Xue/DW/Location" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Xue/DW/Location/TY2_Location_excel_Kanun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="random_select" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LQ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train_Deep_PHURE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LQ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_Deep_PHURE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train_net_VGG19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LQ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_net_VGG19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="xiugaidaxiao_resize_crop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LQ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiugaidaxiao_resize_crop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_net_VGG19" />
+      <item itemvalue="Python.train_Deep_PHURE" />
+      <item itemvalue="Python.xiugaidaxiao_resize_crop" />
+      <item itemvalue="Python.random_select" />
+      <item itemvalue="Python.TY2_Location_excel_Kanun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xiugaidaxiao_resize_crop" />
+        <item itemvalue="Python.TY2_Location_excel_Kanun" />
+        <item itemvalue="Python.random_select" />
+        <item itemvalue="Python.train_Deep_PHURE" />
+        <item itemvalue="Python.train_net_VGG19" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9669f4bc-75ac-40b8-9b5f-2dbf1763bdb4" name="Default Changelist" comment="" />
+      <created>1575294115141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575294115141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_train_net_py - 2019.12.19 at 14h 02m 55s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.19 at 16h 37m 27s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.19 at 16h 45m 21s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.19 at 16h 45m 43s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.19 at 16h 49m 11s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.24 at 19h 48m 55s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.24 at 19h 49m 24s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.24 at 19h 50m 07s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.24 at 19h 50m 24s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_net_py - 2019.12.24 at 19h 55m 33s.xml">
+      <configuration name="pytest in train_net.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32859176" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.20361687" side_tool="true" visible="true" weight="0.3029872" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.79638314" visible="true" weight="0.3029872" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32859176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12659076" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32953784" />
+      <window_info anchor="right" x="395" y="208" width="696" height="429" id="SciView" order="3" visible="true" weight="0.22638983" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49765572" weight="0.2290185" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32859176" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_net.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_image_folder.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plotbox.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sandiantu.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/error_percent.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/error_percent.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/error_percent.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plotbox.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/error_percent_1830.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_net.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PreWind_smooth.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PreWind_smooth_QJ.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PreWind_smooth_QJ.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Xue/DW/Location/TY2_Location_excel_Kanun.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="set" />
+        <watch expression="dataSets" />
+        <watch expression="filename1" />
+        <watch expression="RMSE" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="380" lean-forward="true" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WXJ_train_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="100" selection-start-line="100" selection-end-line="100" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation_index_move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreWind_smooth_QJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_calculate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typhoon_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_percent_1830.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="81" lean-forward="true" selection-start-line="1" selection-end-line="81" />
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation_index_notensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year_Tongji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/multiprocessing/reduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produce_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_res_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiugaidaxiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JPG_Class_Select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rotate_PIL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torchvision/transforms/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="130" column="8" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_WXJ_YL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="180" selection-start-line="73" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pytorch_hand_classifier-master/classifier_test_InceptionRes_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_res_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="83" column="45" lean-forward="true" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_res_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torchvision/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="154" column="25" selection-start-line="154" selection-start-column="25" selection-end-line="154" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/InceptionResnetv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3293">
+          <caret line="115" column="28" selection-start-line="115" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/batchnorm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torchvision/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/deep_typhoon-master2/WXJ_deep_typhoon-master/RMW_code/R50_Avg_resnet101_tuning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/utils/model_zoo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/container.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10470">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/vgg19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torchvision/models/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_transform_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_image_folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_net_VGG19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7920">
+          <caret line="269" column="8" selection-start-line="269" selection-start-column="8" selection-end-line="269" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreWind_smooth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_Deep_PHURE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="75" column="37" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#764#1519#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="130" column="54" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Xue/DW/Location/TY2_Location_excel_Kanun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="116" column="51" lean-forward="true" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
+          <folding>
+            <element signature="e#106#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/define_net_WXJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiugaidaxiao_resize_crop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
